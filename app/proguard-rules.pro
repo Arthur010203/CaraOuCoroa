@@ -5,7 +5,7 @@
 # Para mais detalhes, consulte
 # http://developer.android.com/guide/developing/tools/proguard.html
 
-# Se o seu projeto usa WebView com JS, descomente o seguinte
+# Whith your project has WebView com JS, descomente o seguinte
 # e especifique o nome completo da classe para a interface JavaScript
 # class:
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
